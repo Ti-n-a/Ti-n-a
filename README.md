@@ -14,6 +14,10 @@ I'm a post-graduate student, currently looking to be part of new projects and ex
 ## Featured Contributions
 Here are some of my past contributions. There are more to share, but sadly some owners have yet to make the projects public.
 
+## [Evaluation of Foundation Models for Visual Understanding of Historical Documents](https://github.com/mathis-lesgourgues/Data-Readiness)
+- **Contribution**: Problem investigation; State-of-Art presentation; Research questions definition; Analysis of the results.
+- **Tech**: Python, Shell.
+
 ### [Platform for EV fleet optimization](https://github.com/beatrizbernardoo/RENEWING)
 - **Contribution**: Platform design (including front-end and back-end development); User authentication with security; Client interaction with Geolocation and Mapping APIs; Requirement validation; Middleware system correction; Database architecture design using Sequelize and MySQL;
 - **Tech**: React, Sequelize, MySQL, Docker, several APIs, ...
